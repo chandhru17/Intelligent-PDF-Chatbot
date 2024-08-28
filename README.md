@@ -119,9 +119,9 @@ Got it! Here's the updated directory structure section in the README file to inc
 ![Front End](static/assets/FrontEndImage.png)
 
 ### Chatbot Answer
-![Chatbot Answer](static/assets/AnswerImage.png)
+![Chatbot Answer](static/assets/AnswerImage.png) 
 
-## License
+## Link
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+https://doc-chat-a-chatbot-for-pdfs.onrender.com/
 
